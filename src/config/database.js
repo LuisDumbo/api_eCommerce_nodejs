@@ -1,9 +1,9 @@
 module.exports = {
     dialect: 'mysql',
-    host: 'localhost',
-    username: 'root',
-    password: '',
-    database: 'e_comerce',
+    host: 'db4free.net',
+    username: 'morais123',
+    password: 'Dumbo123@',
+    database: 'apinode',
     define: {
         timestamps: true,
         underscored: true,
