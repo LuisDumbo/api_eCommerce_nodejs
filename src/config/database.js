@@ -2,7 +2,7 @@ module.exports = {
     dialect: 'mysql',
     host: 'db4free.net',
     username: 'morais123',
-    password: 'Dumbo123@',
+    password: '',
     database: 'apinode',
     define: {
         timestamps: true,
